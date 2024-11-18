@@ -81,7 +81,8 @@ Two primary dashboards were created:
   - Revenue and growth comparison over years.  
 
 ### **Dashboard 2: Time-Based Sales Insights**  
-![image](https://github.com/user-attachments/assets/46c1ba26-82bd-49d0-8022-b5c28fc14d7a)
+![image](https://github.com/user-attachments/assets/ac9cd3a0-986a-41d7-80e8-e0094e84035d)
+
 
 - Highlights:  
   - Sales distribution by time of day and day of the week.  
